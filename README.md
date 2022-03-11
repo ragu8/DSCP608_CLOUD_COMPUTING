@@ -28,5 +28,5 @@
 9. Create a Virtual Machine (VM) in Google cloud 
 
 
- 10.Create a Cloud Storage Bucket in Google Cloud 
+10. Create a Cloud Storage Bucket in Google Cloud 
 
