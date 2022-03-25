@@ -10,10 +10,9 @@
 3. Creating an Application in SalesForce.com using Apex programming. 
 
 
-4. Case Study: PAAS(Google App Engine) 
+4. QWIKLABS Learning Enviroment.
 
-
-5. Case Study: Amazon Web Services. 
+5. Deploying an App in Google Cloud Platform. 
 
 
 6. Case Study : Google Cloud Platform 
