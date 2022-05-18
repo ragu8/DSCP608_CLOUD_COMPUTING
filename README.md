@@ -15,17 +15,17 @@
 5. Deploying an App in Google Cloud Platform. 
 
 
-6. Case Study : Google Cloud Platform 
+6. CREATING AN ACCOUNT AND MANAGING THE BIGCOMMERCE.
 
 
-7. Explore the features of Qwiklabs Online Cloud Lab Learning Environment
+7. DESIGNING OUR OWN WEBSITE USING ADOBE.
 
 
-8. Deploy an App in Google Cloud Platform 
+8. CREATING AN ECLIPSE CLOUD ACCOUNT USING REDHAT.
 
 
-9. Create a Virtual Machine (VM) in Google cloud 
+9. DEVELOPING A C++ PROGRAM FROM SANDBOX ENVIRONMEN.
 
 
-10. Create a Cloud Storage Bucket in Google Cloud 
+10. DEVELOPING JAVA PROGRAM FROM SANDBOX ENVIRONMENT.
 
